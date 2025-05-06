@@ -1,0 +1,31 @@
+
+** CREE Bill-of-Material Report ** 
+ Test Fixture:  838120    Rev: 3   Description: TEST FIXTURE ASSY, CGH40010 (F&P)
+ Report Generated Date: Wed Jul 07 13:25:06 Eastern Daylight Time 2010
+
+  L   SEQ#  BOM Item or Document            Item Description or Doc.Type    Qty     UoM   Eff. Date   Ref. Designator               
+  =  =====  ==============================  ==============================  ======  ====  ==========  ====================          
+
+  1      1  11G0000 A2  Resistor            RES,1/16W,0603,1%,0 OHMS        2.0     Each              R1,R2                         
+  1      1  11G1000 A2  Resistor            RES,1/16W,0603,1%,100 OHMS      1.0     Each              R4                            
+  1      1  11G47R0 A2  Resistor            RES,1/16W,47 OHMS,1% TOL,0603   1.0     Each              R3                            
+  1      1  2-000090 2  Capacitor           CAP, 470PF, 5%, 100V,  0603,  X  1.0     Each              C6                            
+  1      1  2-000122 1  Capacitor           CAP, 33 UF, 20%, G CASE         1.0     Each              C17                           
+  1      1  2-000124 1  Capacitor           CAP, 1.0UF, 100V, 10%, X7R, 121  1.0     Each              C16                           
+  1      1  240096 A  Capacitor             CAP 10UF 16V TANTALUM           1.0     Each              C8                            
+  1      1  2640R5 1  Capacitor             CAP, 0.5pF,+/-0.05pF, 0603, ATC  1.0     Each              C1                            
+  1      1  2640R7 1  Capacitor             CAP, 0.7pF, +/-0.1pF, 0603,  AT  1.0     Each              C2                            
+  1      1  264100 1  Capacitor             CAP, 10.0pF, +/-5%, 0603, ATC   2.0     Each              C4,C12                        
+  1      1  264101 1  Capacitor             CAP, 100.0pF, +/-5%, 0603, ATC  1.0     Each              C14                           
+  1      1  2641R0 1  Capacitor             CAP, 1.0pF, +/-0.1pF, 0603, ATC  2.0     Each              C10,C11                       
+  1      1  264390 1  Capacitor             CAP, 39pF, +/-5%, 0603, ATC     2.0     Each              C5,C13                        
+  1      1  26R333 A  Capacitor             CAP,33000PF, 0805,100V, X7R     2.0     Each              C7,C15                        
+  1      1  3-000537 2  3-PCB               PCB, TEST FIXTURE, RO4350, 0.02  1.0     Each                                            
+  1      1  4-001506 2  4-Fabricated Part   BASEPLATE, CGH35015, 2.60 X 1.7  1.0     Each  08/07/07                                  
+  1      1  4-001507 3  4-Fabricated Part   PRESSPLATE, CGH35015, 2.60 X 1.  1.0     Each  08/07/07                                  
+  1      1  46-000331 1  RF Connector       CONN, SMA, PANEL MOUNT JACK, FL  2.0     Each  08/07/07    J3,J4                         
+  1      1  462302 G  DC Connector          HEADER RT>PLZ.1CEN LK 2 POS     1.0     Each              J2                            
+  1      1  462305 G  DC Connector          HEADER RT>PLZ .1CEN LK 5POS     1.0     Each              J1                            
+
+               ** End of Report ** 
+ Test Fixture:  838120    Rev: 3   Description: TEST FIXTURE ASSY, CGH40010 (F&P)               
