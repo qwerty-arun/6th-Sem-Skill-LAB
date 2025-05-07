@@ -25,3 +25,15 @@
 - Choke using inductors. For transistor's gate we give both VDC and VAC. We also use a series capacitor and a shunt inductor with a VDC in series with Inductor. The inductor is connected to the gate of the MESFET.
 - The capacitor block DC components (AC input is given here) and the inductor blocks and AC component from entering the VDC source.
 </details>
+
+<details>
+  <summary>7/5/25: Day-3</summary>
+
+  # Key Learnings
+  - Design of a LNA at receiver end.
+  - The setup was for frequency = 10GHz
+  - Cadence AWR used for all. Components used: LNA, ports, Bandpass filters, attenuator etc.
+  - Noise Figure and Gain tradeoff. If you improve gain, noise will get amplified. If we want best noise figure, then gain will have to be compromised.
+  - Concept of subcircuits.
+  - Created many graphs on different parameters: S parameters, Gain , noise figure.
+</details>
